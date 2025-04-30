@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Greg
-- 👀 I’m interested in ... Game Development/Backend Development
-- 🌱 I’m currently learning ...C++, Git, Javascript, 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Quantitatve Development
+- 🌱 I’m currently learning ...C++, Python, Git, Javascript, 
+- 💞️ I’m looking to collaborate on ... backtesting systems, simulated trading enviornments, new algorithmic trading strategies.
 - 📫 How to reach me ...ggier86@gmail.com
 
 <!---
